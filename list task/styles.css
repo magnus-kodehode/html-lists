@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol {
+    background: #86CB92;
+    padding: 15px 0 15px 35px;
+  }
+
+  ul {
+      margin: 10px;
+  }
